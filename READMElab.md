@@ -1,7 +1,7 @@
 # Florencia's Portfolio – Azure Static Web App
 
-**Live URL:** [https://<your-static-web-app-url>](https://jolly-stone-08ead9103.1.azurestaticapps.net/)  
-**Repo:** [https://github.com/<youruser>/Portfolio_lab](https://github.com/Floremila/Portfolio_lab)
+**Live URL:** [Portfolio online](https://jolly-stone-08ead9103.1.azurestaticapps.net/)  
+**Repo:** [GitHub – Portfolio_lab](https://github.com/Floremila/Portfolio_lab)
 
 ---
 
